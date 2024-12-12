@@ -2,5 +2,5 @@ print('hello world!')
 
 x = 5
 
-for i in(x):
+for i in range(x):
     print(i)
